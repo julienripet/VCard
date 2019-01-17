@@ -3,5 +3,50 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #A8FFBD;
-    width:
+    margin-top:4.1%
+}
+#ProfilePic{
+    width: 12vw;
+    height:auto;
+}
+.grid-container{
+    padding: 10px;
+    display:grid;
+    grid-template-columns: 31.25% 36.46% 32.29%;
+    grid-template-rows: max-content;
+    justify-items: center;
+}
+.grid-item{
+    /* background-color: white; */
+    padding: 20px;
+}
+.item2 div{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 10px;
+    align-content: center;
+    padding: 20px;
+}
+.item2 div img{
+    border-radius: 10px;
+}
+.item3{
+    width: 26vw;
+    justify-self: left;
+
+}
+.item3 div{
+    background-color: #4FB667;
+}
+.item4{
+    width: 26vw;
+    justify-self: center;
+
+
+}
+.item6{
+    width: 26vw;
+    justify-self: center;
+
 }
