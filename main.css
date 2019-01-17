@@ -61,6 +61,9 @@ body{
     font-size:1.25em;
 
 }
+.item4 div{
+    background-color: #6AE856;
+}
 .item5 {
     width: 26vw;
     justify-self: center;
@@ -69,12 +72,21 @@ body{
     align-self: flex-end;
     /* margin-bottom: 4vh; */
 }
+.item5 div{
+    background-color: #6AE856;
+
+    
+}
 .item6{
     width: 26vw;
     justify-self: center;
     background-color: white;
     height: 15vh;
 
+
+}
+.item6 div{
+    background-color: #6AE856;
 
 }
 #item8{
