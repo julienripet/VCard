@@ -45,6 +45,11 @@ body{
 .item3 div{
     background-color: #4FB667;
 }
+.item3 div img{
+    width: 5.2vw;
+    height: auto;
+    border-radius: 5px;
+}
 .item4{
     width: 26vw;
     justify-self: center;
