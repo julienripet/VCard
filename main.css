@@ -44,12 +44,26 @@ body{
     margin-bottom: 8.5vh;
 }
 .item3 div{
+    width: 26vw;
+    justify-content: space-between;
     background-color: #4FB667;
+    margin: auto;
+    display: grid;
+    grid-gap: 1vmin;
+    grid-template-columns: 5vw 5vw 5vw;
 }
-.item3 div img{
+/* .item3 div img{
     width: 5.2vw;
     height: auto;
     border-radius: 5px;
+} */
+
+.grid-item .image{
+    width: 7vw;
+    max-height: 15vmin;;
+    height: auto;
+    border-radius: 5px;
+    margin: auto
 }
 .item4,.item6{
     width: 26vw;
