@@ -40,12 +40,11 @@ body{
 .item3, .item1{
     text-align: center;
     font-family: 'Aldrich';
-    font-size: 2em;
+    font-size: 2.1em;
     width: 26vw;
     height: 15vh;
     min-height: 15vmin;
     background-color: #4FB667;
-    align-self: flex-end;
     justify-self: left;
     margin: auto;
     margin-bottom: 8.5vh;
