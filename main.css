@@ -25,6 +25,9 @@ body{
     padding: 20px;
     border-radius: 10px;
 }
+.item1{
+    
+}
 .item2 div{
     background-color: white;
     border-radius: 10px;
@@ -34,7 +37,10 @@ body{
 .item2 div img{
     border-radius: 10px;
 }
-.item3{
+.item3, .item1{
+    text-align: center;
+    font-family: 'Aldrich';
+    font-size: 2em;
     width: 26vw;
     height: 15vh;
     min-height: 15vmin;
