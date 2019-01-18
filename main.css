@@ -8,7 +8,7 @@ body{
     font-size: 1.5vmin;
 }
 #ProfilePic{
-    width: 12vw;
+    width: 24vmin;
     height:auto;
 }
 .grid-container{
@@ -27,8 +27,6 @@ body{
 
 }
 .item2 div{
-    margin-left: auto;
-    margin-right: auto;
     background-color: white;
     border-radius: 10px;
     align-content: center;
@@ -53,16 +51,21 @@ body{
     height: auto;
     border-radius: 5px;
 }
-.item4{
+.item4,.item6{
     width: 26vw;
     justify-self: center;
     background-color: white;
     height: 15vh;
     font-size:1.25em;
-
+    height: 54vh;
 }
-.item4 div{
+.item4 div,.item6 div{
     background-color: #6AE856;
+    height: 51vh;
+    width: 24vw;
+    margin: auto;
+    border-radius: 5px;
+    padding: 0.75vmin;
 }
 .item5 {
     width: 26vw;
@@ -70,23 +73,16 @@ body{
     background-color: white;
     height: 41.5vh;
     align-self: flex-end;
-    /* margin-bottom: 4vh; */
+    font-size:1.25em;
+
 }
 .item5 div{
     background-color: #6AE856;
-
-    
-}
-.item6{
-    width: 26vw;
-    justify-self: center;
-    background-color: white;
-    height: 15vh;
-
-
-}
-.item6 div{
-    background-color: #6AE856;
+    width: 24vw;
+    height: 38vh;    
+    margin:auto;
+    border-radius: 5px;
+    padding: 0.75vmin;
 
 }
 #item8{
