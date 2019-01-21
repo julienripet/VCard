@@ -11,6 +11,10 @@ body{
     width: 24vmin;
     height:auto;
 }
+ol{
+    padding: 0%;
+}
+ul{padding-left: 1vw;}
 .grid-container{
     display:grid;
     grid-template-columns: 31.25vw 36.46vw 32.29vw;
